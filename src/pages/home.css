@@ -1,0 +1,15 @@
+.operadores{
+    width:200px;
+    height: 70px;
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+    
+}
+
+.operadores>button{
+    
+}
